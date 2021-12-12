@@ -1,3 +1,5 @@
+(BASIC)
+
 # QUESTION
 """
 You are given an array arr[], you have to re-construct an array arr[].
