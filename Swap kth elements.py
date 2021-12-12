@@ -1,5 +1,5 @@
 ## QUESTION
-
+"""
 Given an array Arr of size N, swap the Kth element from beginning with Kth element from end.
 
 Example 1:
@@ -23,6 +23,7 @@ You don't need to read input or print anything. Your task is to complete the fun
 
 Expected Time Complexity: O(1)
 Expected Auxiliary Space: O(1)
+"""
 
 ## SOLUTION:
 
@@ -45,11 +46,6 @@ class Solution:
 #{ 
 #  Driver Code Starts
 #Initial Template for Python 3
-
-
-
-
-
 
 if __name__ == '__main__':
     tc = int(input())
