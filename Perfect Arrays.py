@@ -1,5 +1,6 @@
 ## QUESTION
 
+"""
 Given an array of size N and you have to tell whether the array is perfect or not. An array is said to be perfect if it's reverse array matches the original array. If the array is perfect then print "PERFECT" else print "NOT PERFECT".
 
 Example 1:
@@ -22,6 +23,7 @@ The task is to complete the function IsPerfect(), which takes an array (a), size
 
 Expected Time Complexity: O(N).
 Expected Auxiliary Space: O(1).
+"""
 
 ## SOLUTION
 
