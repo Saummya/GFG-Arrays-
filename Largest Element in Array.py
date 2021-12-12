@@ -1,7 +1,6 @@
 # QUESTION
 """
 Given an array A[] of size n. The task is to find the largest element in it.
- 
 
 Example 1:
 
@@ -13,7 +12,6 @@ Output:
 Explanation:
 The largest element of given array is 90.
  
-
 Example 2:
 
 Input:
